@@ -16,7 +16,6 @@ const winningPattern = [
     [6, 7, 8],
 ];
 
-para.classList.add('reset');
 
 buttons.forEach((button) => {
   button.addEventListener('click',()=> {
