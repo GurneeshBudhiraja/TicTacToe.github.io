@@ -24,4 +24,4 @@ A simple Tic-tac-toe game with a responsive design.
 
 ## Credits
 
-The image used in this project is sourced from https://www.freepik.com/vectors
+The background image used in this project is sourced from https://www.freepik.com/vectors
