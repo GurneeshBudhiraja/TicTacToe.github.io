@@ -56,7 +56,7 @@ const checkWinner = ()=> {
 
 const drawMessage = () => {
   para.classList.remove('reset');
-  para.innerText = 'Draw';
+  para.innerText = 'Its A Draw';
   
 }
 
