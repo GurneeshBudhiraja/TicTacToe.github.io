@@ -1,8 +1,8 @@
 
 # Tic-tac-toe
 
-A simple Tic-tac-toe game with a responsive design.
-
+- A simple Tic-tac-toe game with a responsive design.
+- Hosted on this URL: https://gurneeshbudhiraja.github.io/TicTacToe.github.io/
 
 
 
